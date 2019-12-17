@@ -1,25 +1,4 @@
 {
-  "appointments": [
-    {
-      "summary": "Test appointment 1",
-      "location": "Microlise India, Pune",
-      "startDate": "2019-12-08",
-      "endDate": "2019-12-08",
-      "id": 1
-    },
-    {
-      "summary": "Test Appointment 2",
-      "location": "Microlise India, Pune",
-      "startDate": "2019-11-06",
-      "endDate": "2019-11-06",
-      "id": 2
-    },
-    {
-      "summary": "Test Appointment 3",
-      "location": "Microlise India, Pune",
-      "startDate": "2019-12-08",
-      "endDate": "2019-12-08",
-      "id": 3
-    }
-  ]
+  "appointments": [],
+  "contacts": []
 }
